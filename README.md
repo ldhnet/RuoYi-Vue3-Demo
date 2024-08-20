@@ -35,18 +35,22 @@ yarn dev
 - admin/admin123  
 - 陆陆续续收到一些打赏，为了更好的体验已用于演示服务器升级。谢谢各位小伙伴。
 
-演示地址：http://vue.ruoyi.vip   
+演示地址：http://117.72.70.166/admin/  
 
 ## 演示图
 
 <table>
     <tr>
-        <td><img src="https://gitee.com/ldhnet/ruoyivue3-demo/blob/master/src/assets/review/demo1.png"/></td>
-        <td><img src="https://gitee.com/ldhnet/ruoyivue3-demo/blob/master/src/assets/review/demo2.png"/></td>
+        <td><img src="https://gitee.com/ldhnet/ruoyivue3-demo/raw/master/src/assets/review/demo1.png"/></td> 
+    </tr>
+    <tr> 
+        <td><img src="https://gitee.com/ldhnet/ruoyivue3-demo/raw/master/src/assets/review/demo2.png"/></td>
     </tr>
      <tr>
-        <td><img src="https://gitee.com/ldhnet/ruoyivue3-demo/blob/master/src/assets/review/demo3.png"/></td>
-        <td><img src="https://gitee.com/ldhnet/ruoyivue3-demo/blob/master/src/assets/review/demo4.png"/></td>
+        <td><img src="https://gitee.com/ldhnet/ruoyivue3-demo/raw/master/src/assets/review/demo3.png"/></td> 
+    </tr>
+     <tr> 
+        <td><img src="https://gitee.com/ldhnet/ruoyivue3-demo/raw/master/src/assets/review/demo4.png"/></td>
     </tr>
 </table>
  
