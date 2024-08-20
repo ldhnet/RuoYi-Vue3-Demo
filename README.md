@@ -41,12 +41,12 @@ yarn dev
 
 <table>
     <tr>
-        <td><img src="https://gitee.com/ldhnet/ruoyivue3-demo/tree/master/src/assets/review/demo1.png"/></td>
-        <td><img src="https://gitee.com/ldhnet/ruoyivue3-demo/tree/master/src/assets/review/demo2.png"/></td>
+        <td><img src="https://gitee.com/ldhnet/ruoyivue3-demo/blob/master/src/assets/review/demo1.png"/></td>
+        <td><img src="https://gitee.com/ldhnet/ruoyivue3-demo/blob/master/src/assets/review/demo2.png"/></td>
     </tr>
      <tr>
-        <td><img src="https://gitee.com/ldhnet/ruoyivue3-demo/tree/master/src/assets/review/demo3.png"/></td>
-        <td><img src="https://gitee.com/ldhnet/ruoyivue3-demo/tree/master/src/assets/review/demo4.png"/></td>
+        <td><img src="https://gitee.com/ldhnet/ruoyivue3-demo/blob/master/src/assets/review/demo3.png"/></td>
+        <td><img src="https://gitee.com/ldhnet/ruoyivue3-demo/blob/master/src/assets/review/demo4.png"/></td>
     </tr>
 </table>
  
